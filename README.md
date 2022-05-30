@@ -5,7 +5,7 @@ X11 packages for Termux 0.83.
 For more informations, please go [here](https://github.com/GamePlayer-PL/termux-0.83-compiles).
 
 ## Contributing and patching
-Heyo, if you want to report an issue or create a new pull request **please firstly** go to **[GamePlayer Issues Center](https://gameplayer.tru.io/issues)** or go to **[Github Issues Center](https://github.com/GamePlayer-8/gameplayer-8.github.io/issues)**. **I'M NOT GOING TO RESPOND ON PULL REQUESTS TILL YOU WILL PING ME VIA EMAIL OR VIA ISSUES CENTERS.**
+Heyo, if you want to report an issue or create a new pull request **please firstly** go to **[GamePlayer Issues Center](https://gameplayer.tru.io/issues)** or go to **[Github Issues Center](https://github.com/GamePlayer-8/issues/issues)**. **I'M NOT GOING TO RESPOND ON PULL REQUESTS TILL YOU WILL PING ME VIA EMAIL OR VIA ISSUES CENTERS.**
 
 ## Questions or contact info
 I recommend you going on **[GamePlayer Support Center](https://gameplayer.tru.io/helpcenter)** or contact with me directly via email **gameplayer2019pl@tutamail.com**.
